@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cfd3f6b8.chunk.css",
+    "main.js": "/static/js/main.35bc838f.chunk.js",
+    "main.js.map": "/static/js/main.35bc838f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.dba7775a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.dba7775a.js.map",
+    "static/js/2.e48607e3.chunk.js": "/static/js/2.e48607e3.chunk.js",
+    "static/js/2.e48607e3.chunk.js.map": "/static/js/2.e48607e3.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.26f4f1511bade990c6b2a6bec3193d69.js": "/precache-manifest.26f4f1511bade990c6b2a6bec3193d69.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.cfd3f6b8.chunk.css.map": "/static/css/main.cfd3f6b8.chunk.css.map",
+    "static/js/2.e48607e3.chunk.js.LICENSE.txt": "/static/js/2.e48607e3.chunk.js.LICENSE.txt",
+    "static/media/F-32.wfp.jpg": "/static/media/F-32.wfp.18f7bac3.jpg",
+    "static/media/style.sass": "/static/media/bg_header.5aa5e620.png",
+    "static/media/icons8-удалить.svg": "/static/media/icons8-удалить.6d03891b.svg",
+    "static/media/spez1_090316.png": "/static/media/spez1_090316.0f9fcbf0.png",
+    "static/media/шипы-квадрат-для-сайта.jpg": "/static/media/шипы-квадрат-для-сайта.6be90e60.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dba7775a.js",
+    "static/js/2.e48607e3.chunk.js",
+    "static/css/main.cfd3f6b8.chunk.css",
+    "static/js/main.35bc838f.chunk.js"
+  ]
+}
